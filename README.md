@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Kunni 👋
 
-<!--
-**kunal-commits365/kunal-commits365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BCA Student | Full-Stack Developer | DSA Learner
 
-Here are some ideas to get you started:
+### 🛠️ Tech
+C++ • JavaScript • React • Node.js • SQL • Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently
+Building projects • Learning new stuff • Solving problems
+
+### 🎯 Goal
+Build. Learn. Improve. Repeat. 🔥
+
+> Code. Break. Fix. Repeat. 
