@@ -9,6 +9,7 @@ C++ • JavaScript • React • Node.js • SQL • Firebase
 Building projects • Learning new stuff • Solving problems
 
 ### 🎯 Goal
-Build. Learn. Improve. Repeat. 🔥
+Build. Learn. Improve. Repeat. 
+
 
 > Code. Break. Fix. Repeat. 
